@@ -1,0 +1,6 @@
+{
+  "name": "MediCare Routine - Medical History, Timetable & Emergency Care",
+  "description": "Comprehensive healthcare platform for Kanika featuring daily health briefing updates, medical history, timetable routines, smartwatch biometric telemetry, meal analysis, and real-time emergency doctor calling.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
